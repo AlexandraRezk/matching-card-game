@@ -12,7 +12,7 @@ body{
 
 #gameStats{
     /*background: #001711;*/
-    background: #E91BE2;
+    background: #224666;
     width: 780px;
     margin: 10px auto 10px;
     display: block;
@@ -45,7 +45,7 @@ body{
 
 #game{
     /*background: #001711;*/
-    background: #E91BE2;
+    background: #224666;
 	width: 760px;
 	height: 650px;
 	margin: 0 auto;
